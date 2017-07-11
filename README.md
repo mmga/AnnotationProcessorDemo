@@ -179,10 +179,13 @@ public class MainActivity extends AppCompatActivity {
 [通过 annotation processor 生成弹出 Toast](https://github.com/mmga/AnnotationProcessorDemo/blob/master/compiler/src/main/java/com/example/ToastProcessor.java)
 
 参考资料 
-[javapoet](http://www.jianshu.com/p/95f12f72f69a)
-[Android APT（编译时代码生成）最佳实践](https://github.com/taoweiji/DemoAPT?utm_source=tuicool&utm_medium=referral)
-[APT实用案例一：状态模式之就算违背开闭原则又何妨？](http://blog.csdn.net/drd_zsd123/article/details/72822662)
-[Android公共技术点之一-Java注解](http://yeungeek.com/2016/04/25/Android%E5%85%AC%E5%85%B1%E6%8A%80%E6%9C%AF%E7%82%B9%E4%B9%8B%E4%B8%80-Java%E6%B3%A8%E8%A7%A3/)
+[javapoet](http://www.jianshu.com/p/95f12f72f69a)  
+
+[Android APT（编译时代码生成）最佳实践](https://github.com/taoweiji/DemoAPT?utm_source=tuicool&utm_medium=referral)  
+
+[APT实用案例一：状态模式之就算违背开闭原则又何妨？](http://blog.csdn.net/drd_zsd123/article/details/72822662)  
+
+[Android公共技术点之一-Java注解](http://yeungeek.com/2016/04/25/Android%E5%85%AC%E5%85%B1%E6%8A%80%E6%9C%AF%E7%82%B9%E4%B9%8B%E4%B8%80-Java%E6%B3%A8%E8%A7%A3/)  
 
 
 
