@@ -46,6 +46,6 @@ public class HelloWorldProcessor extends AbstractProcessor {
 
     @Override
     public Set<String> getSupportedAnnotationTypes() {
-        return Collections.singleton(Mmga.class.getCanonicalName());
+        return Collections.singleton(HelloWorld.class.getCanonicalName());
     }
 }
